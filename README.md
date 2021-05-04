@@ -22,10 +22,10 @@ You are asked to accomplish the following main tasks:
 **4 - Visualizing Results :** 
 * I created some plots and data tables to present your results.
 
-![3D](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2310/Images/3D.png)
+![3D](https://github.com/arzuisiktopbas/10-The_Power_of_the_Cloud_and_Unsupervised_Learning/blob/main/Images/3D.png)
 
 
-![Scatter](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2310/Images/scatter.png)
+![Scatter](https://github.com/arzuisiktopbas/10-The_Power_of_the_Cloud_and_Unsupervised_Learning/blob/main/Images/scatter.png)
 
 ---
 
