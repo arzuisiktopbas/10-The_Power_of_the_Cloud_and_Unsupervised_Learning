@@ -1,9 +1,9 @@
-# Unit 13 Homework Assignment - The Power of the Cloud and Unsupervised Learning
+# The Power of the Cloud and Unsupervised Learning
 *by Arzu Isik Topbas*
 
 ### Clustering Crypto
 
-In this homework assignment, I put my unsupervivsed learning and Amazon SageMaker skills into action by clustering cryptocurrencies and creating plots to present the results.
+I put my unsupervivsed learning and Amazon SageMaker skills into action by clustering cryptocurrencies and creating plots to present the results.
 
 You are asked to accomplish the following main tasks:
 
